@@ -1,8 +1,10 @@
-# Exp-6-Synchornous-counters - up counter and down counter 
-### AIM: To implement 4 bit up and down counters and validate  functionality.
-### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
-### SOFTWARE REQUIRED:   Quartus prime
-### THEORY 
+# Exp-6-Synchornous-counters - Up Counter and Down Counter 
+## AIM: 
+To implement 4 bit up and down counters and validate  functionality.
+## HARDWARE REQUIRED:  
+– PC, Cyclone II , USB flasher
+## SOFTWARE REQUIRED:   
+Quartus prime
 
 ## UP COUNTER 
 The counter is a digital sequential circuit and here it is a 4 bit counter, which simply means it can count from 0 to 15 and vice versa based upon the direction of counting (up/down). 
